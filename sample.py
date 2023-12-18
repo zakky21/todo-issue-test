@@ -1,4 +1,4 @@
-# TODO サンプルTODO
+# TODO サンプルTODOコメント修正
 // TODO これは引っかからない筈？
 #TODO TODO前にスペースなし
 TODO xxx
